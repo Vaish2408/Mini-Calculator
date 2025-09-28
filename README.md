@@ -1,2 +1,20 @@
-# Mini-Calculator
-A simple, responsive calculator built with HTML, CSS (Bootstrap 5), and JavaScript. It allows users to perform basic arithmetic operations (addition, subtraction, multiplication, division) and displays the result instantly. Includes a clear button to reset inputs and results.
+# 🧮 Simple Calculator
+
+A simple, responsive calculator built using **HTML**, **CSS (Bootstrap 5)**, and **JavaScript**.  
+This project performs basic arithmetic operations and provides a clean, user-friendly interface.
+
+---
+
+## 🚀 Features
+- ➕ **Addition**, ➖ **Subtraction**, ✖️ **Multiplication**, ➗ **Division**
+- 🔄 **Clear button** to reset inputs and result
+- 📱 **Responsive design** (works on desktop & mobile)
+- ⚡ **Instant calculation** using JavaScript
+
+---
+
+## 📸 Preview
+(Add a screenshot of your calculator here)  
+```html
+<!-- Example for GitHub Markdown -->
+![Calculator Preview](screenshot.png)
